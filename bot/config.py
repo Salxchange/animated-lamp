@@ -3,7 +3,7 @@ import os
 
 class Config:
 
-    API_ID = int("21027612"))
+    API_ID = int("21027612")
     API_HASH = ("b36c5dc986f77eedd4bbf356b65eab19")
     BOT_TOKEN = ("6926658380:AAEpfUlnnYwUVA-J2QsBuFxhL4v46VKISKE")
     SESSION_NAME = os.environ.get("SESSION_NAME", ":memory:")
