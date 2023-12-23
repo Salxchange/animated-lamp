@@ -9,7 +9,7 @@ class Config:
     SESSION_NAME = os.environ.get("SESSION_NAME", ":memory:")
     LOG_CHANNEL = int("-1001621207300")
     DATABASE_URL = ("mongodb+srv://ROKU:ROKU@cluster0.nxjre0s.mongodb.net/?retryWrites=true&w=majority")
-    AUTH_USERS = int("6926658380:AAEpfUlnnYwUVA-J2QsBuFxhL4v46VKISKE")
+    AUTH_USERS = int("5098097249")
     MAX_PROCESSES_PER_USER = int(os.environ.get("MAX_PROCESSES_PER_USER", 2))
     MAX_TRIM_DURATION = int(os.environ.get("MAX_TRIM_DURATION", 600))
     TRACK_CHANNEL = int(os.environ.get("TRACK_CHANNEL", False))
