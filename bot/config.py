@@ -5,7 +5,7 @@ class Config:
 
     API_ID = int("21027612")
     API_HASH = ("b36c5dc986f77eedd4bbf356b65eab19")
-    BOT_TOKEN = ("6926658380:AAEpfUlnnYwUVA-J2QsBuFxhL4v46VKISKE")
+    BOT_TOKEN = ("6715524410:AAFS5YouinkCrGEt1qNzMkMidIKPdmgu4Ws")
     SESSION_NAME = os.environ.get("SESSION_NAME", ":memory:")
     LOG_CHANNEL = int("-1001621207300")
     DATABASE_URL = ("mongodb+srv://ROKU:ROKU@cluster0.nxjre0s.mongodb.net/?retryWrites=true&w=majority")
